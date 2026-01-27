@@ -61,3 +61,24 @@ Atlético-MG
 São Paulo
 Remo
 Chapecoense
+-ppong
+Palmeiras
+Flamengo
+Cruzeiro
+Botafogo
+Atlético-MG
+São Paulo
+Corinthians
+Mirassol
+Internacional
+Fluminense
+Bahia
+Grêmio
+Santos
+Vasco
+Bragantino
+Athletico-PR
+Coritiba
+Vitória
+Chapecoense
+Remo
