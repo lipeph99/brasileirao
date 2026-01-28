@@ -271,6 +271,27 @@ Coritiba
 Athletico-PR
 Chapecoense
 Remo
+-harakk
+Flamengo
+Palmeiras
+Corinthians
+Fluminense
+Atlético-MG
+Bahia
+Grêmio
+Cruzeiro
+Botafogo
+Internacional
+Vasco
+Bragantino
+Mirassol
+Santos
+São Paulo
+Athletico-PR
+Coritiba
+Remo
+Chapecoense
+Vitória
 -bruno
 -pink
 -carros
