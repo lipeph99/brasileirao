@@ -356,5 +356,25 @@ Vitória
 Chapecoense 
 Remo
 -carros
+Flamengo
+Cruzeiro
+Palmeiras
+Bahia
+Mirassol
+Fluminense
+Botafogo
+São Paulo
+Bragantino
+Grêmio
+Internacional
+Corinthians
+Vasco
+Atlético-MG
+Vitória
+Chapecoense
+Santos
+Athletico-PR
+Coritiba
+Remo
 -gelado
 -radio
