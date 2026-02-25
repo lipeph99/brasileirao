@@ -1,8 +1,23 @@
-Rodada 1:
--PH: 0
--PH2: 8
-Rodada 2:
--PH: 0
--PH2: 8
 Rodada 3:
+-PH: 1144
+-Lucy: 1186
+-Muddt: 1218
+-ppong: 1156
+-Tamm: 1168
+-Denio: 1252
+-lucasbs: 1432
+-frangopena: 1206
+-loumon: 1204
+-ronaldinho: 1120
+-orlnasc: 1018
+-otavio: 1310
+-caio: 1262
+-harakk: 1056
+-pink: 1086
+-bruno: 886
+-TiGo: 1216
+-carros: 960
+Rodada 4:
+...
+Rodada 5:
 ...
